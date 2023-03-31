@@ -76,7 +76,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(66, 393);
+            this.textBox3.Location = new System.Drawing.Point(60, 381);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(675, 116);
@@ -86,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(930, 613);
+            this.ClientSize = new System.Drawing.Size(799, 613);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
